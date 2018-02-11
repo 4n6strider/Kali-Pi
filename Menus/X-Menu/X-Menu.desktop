@@ -6,5 +6,5 @@ Comment=
 Exec=/home/pi/Kali-Pi/X-menu
 Icon=gnome-window-manager
 Path=/home/pi/Kali-Pi/
-Terminal=false
+Terminal=true
 StartupNotify=false
